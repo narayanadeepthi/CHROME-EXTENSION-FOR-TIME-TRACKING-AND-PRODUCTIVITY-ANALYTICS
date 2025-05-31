@@ -31,3 +31,5 @@ To further enhance the user experience, our extension incorporates various featu
 By providing a comprehensive productivity tracking solution, our Chrome extension empowers users to take control of their online habits, optimize their productivity, and achieve their goals.
 
 #output
+
+![Image](https://github.com/user-attachments/assets/d961dee0-933d-4ec5-b36e-ae13128f7c5c)
